@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    word-wrap: break-all;
+}
+
+.strikeThroughDone {
+    text-decoration: line-through;
+}
+
+body {
+    text-align: center;
+    background-color: aliceblue;
+    color: blue;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 8rem;
+    color: black;
+}
+
+.container {
+    text-align: center;
+    padding-top: 31px;
+    width: 520px;
+    margin: 0 auto;
+}
+
+.task {
+    width: 400px;
+    height: 29px;
+}
+
+.submit {
+    width: 100px;
+    height: 29px;
+}
+
+.todoTable {
+    text-align: centre;
+    margin: 15px auto 0;
+}
